@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CrashBandicoot.vcxproj" Id="cec1bdca-01fd-4d62-aed8-bb8f3344af7e" />
+</Solution>
