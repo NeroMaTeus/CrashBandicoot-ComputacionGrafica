@@ -9,7 +9,7 @@ Proyecto final de Computación Gráfica en C++ y OpenGL.
 
 ## Descripción
 
-Nivel lateral 2.5D inspirado en Crash Bandicoot, desarrollado en C++ con OpenGL. El personaje se mueve por plataformas, salta sobre cajas y reaparece al caer en el líquido tóxico. También incluye una plataforma móvil que sigue una curva Bézier y un panel para modificar parámetros en tiempo real.
+Nivel lateral inspirado en Crash Bandicoot, desarrollado en C++ con OpenGL. El personaje se mueve por plataformas, salta sobre cajas y reaparece al caer en el líquido tóxico. También incluye una plataforma móvil que sigue una curva Bézier y un panel para modificar parámetros en tiempo real.
 
 ## Herramientas
 
@@ -63,5 +63,4 @@ Nivel lateral 2.5D inspirado en Crash Bandicoot, desarrollado en C++ con OpenGL.
 Abrir `CrashBandicoot.slnx` en Visual Studio, seleccionar **x64** y ejecutar con **F5**. El proyecto no utiliza CMake.
 
 ## Video explicativo
-
-https://youtu.be/iJTWAzeY6nc
+https://www.youtube.com/watch?v=b99khq3BGhg
